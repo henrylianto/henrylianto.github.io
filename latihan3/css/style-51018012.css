@@ -1,0 +1,39 @@
+body {
+ background-color:#df2400;
+ color: #fffdff;
+ font-family: sans-serif;
+}
+a:link, a:visited {
+ color: #0000aa;
+ text-decoration: none;
+}
+a:hover {
+ color: #928AFF;
+ font-weight: bold;
+ text-decoration: underline;
+}
+.heading {
+ text-align: center;
+ border: 1px solid;
+ padding: 15px;
+ border-radius: 10px;
+}
+.link {
+ list-style-type: none;
+}
+.menu {
+ width: 300px;
+ background-color: #e39544;
+ margin: 5px;
+ margin-left: auto;
+ margin-right: auto;
+ padding: 5px;
+ text-align: center;
+}
+.gambar-resep {
+ width: 800px;
+ height:auto;
+ margin-left: auto;
+ margin-right: auto;
+ display : block;
+}
