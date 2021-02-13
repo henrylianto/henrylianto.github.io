@@ -1,4 +1,4 @@
-const endpoint_url = 'http://srv4.pweb201.local/srv2/prak8/api';
+const endpoint_url = 'https://51018012.p-web.click/praktikum8/rooms/api';
 
 document.addEventListener("DOMContentLoaded", function() {
   getRoomRate();
